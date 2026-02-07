@@ -1,0 +1,7 @@
+app = "discord-broadcast-bot"
+primary_region = "cdg"
+
+[build]
+
+[processes]
+  app = "python bot.py"
